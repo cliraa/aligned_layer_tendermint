@@ -189,7 +189,7 @@ alignedlayerd tx verify gnark-plonk --from <your_key_name> \
 
 - CPU: 4 cores
 - Memory: 16GB
-- Disk: 160GB
+- Disk: 1TB
 
 #### Software
 
